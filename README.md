@@ -5,9 +5,7 @@ cnki，中国知网，论文，论文下载，摘要查询
 
 爬取的信息均存入EXCEL为名的文件中
 # 效果图
-![image]
-(https://github.com/ay1Jin/cnkispider/blob/master/result/result.png)
+![image](https://github.com/ay1Jin/cnkispider/blob/master/result/result.png)
 
 # 运行图
-![image]
-(https://github.com/ay1Jin/cnkispider/blob/master/result/run.gif)
+![image](https://github.com/ay1Jin/cnkispider/blob/master/result/run.gif)
